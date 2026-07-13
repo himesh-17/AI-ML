@@ -1,0 +1,8 @@
+192.168.1.10 - - [04/May/2025:07:30:15 +0000] "GET /index.html HTTP/1.1" 200 1500 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+10.0.0.5 - - [04/May/2025:07:31:02 +0000] "POST /login HTTP/1.1" 401 100 "http://example.com/login" "Mozilla/5.0 (X11; Linux x86_64)"
+10.0.0.5 - - [04/May/2025:07:31:05 +0000] "POST /login HTTP/1.1" 401 100 "http://example.com/login" "Mozilla/5.0 (X11; Linux x86_64)"
+172.16.0.20 - - [04/May/2025:07:32:00 +0000] "GET /products?category=books HTTP/1.0" 200 500 "-" "curl/7.68.0"
+172.16.0.21 - - [04/May/2025:07:33:10 +0000] "GET /../../../../etc/passwd HTTP/1.1" 404 300 "-" "Mozilla/5.0 (compatible; Nmap Scripting Engine)"
+192.168.1.102 - - [04/May/2025:07:34:00 +0000] "GET /admin/config.php HTTP/1.1" 403 250 "-" "Mozilla/5.0"
+192.168.1.103 - - [04/May/2025:07:35:00 +0000] "GET /scripts/run.cgi?cmd=ls HTTP/1.1" 500 100 "-" "Wget/1.20.3 (linux-gnu)"
+10.0.0.6 - - [04/May/2025:07:36:00 +0000] "GET /test HTTP/1.1" 503 0 "-" "-"

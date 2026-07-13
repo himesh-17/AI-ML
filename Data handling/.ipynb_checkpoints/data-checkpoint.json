@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Aarav Sharma",
+    "age": "22",
+    "rating": 4.5,
+    "feedback": "Very useful product, helped me understand concepts quickly."
+  },
+  {
+    "name": "Neha Verma",
+    "age": 19,
+    "rating": "4.0",
+    "feedback": "Good quality overall but could improve UI experience."
+  },
+  {
+    "name": "Rohan Gupta",
+    "age": 25,
+    "rating": 3.5,
+    "feedback": ""
+  },
+  {
+    "name": "Simran Kaur",
+    "age": 21,
+    "rating": 5.0,
+    "feedback": "Excellent! Exceeded my expectations in every aspect."
+  },
+  {
+    "name": "Aditya Mehta",
+    "age": null,
+    "rating": 2.5,
+    "feedback": "Not very satisfied, performance issues are noticeable."
+  },
+  {
+    "name": "Pooja Singh",
+    "age": 20,
+    "rating": 6.2,
+    "feedback": "Pretty solid product, would recommend to others."
+  },
+  {
+    "name": "Karan Malhotra",
+    "age": 27,
+    "rating": 3,
+    "feedback": "It's okay, neither great nor bad."
+  },
+  {
+    "name": "Isha Jain",
+    "age": 18,
+    "rating": "4.8",
+    "feedback": "Amazing experience, very intuitive and fast!!!"
+  },
+  {
+    "name": "Vikram Rao",
+    "age": 30,
+    "rating": -2.0,
+    "feedback": "Did not meet expectations, needs major improvements."
+  },
+  {
+    "name": "Ananya Das",
+    "age": 24,
+    "rating": 4.6,
+    "feedback": "Really good product with minor bugs here and there!!!"
+  },
+  {
+    "name": "   neha verma  ",
+    "age": 19,
+    "rating": 4.1,
+    "feedback": "good product overall"
+  }
+]
