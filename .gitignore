@@ -14,3 +14,9 @@ __pycache__/
 # Virtual environments
 venv/
 .env
+
+.kilo/
+
+.\DeepLearning\data
+Deep Learning/data/
+Deep Learning/IMDB Dataset.csv
